@@ -11,11 +11,11 @@ Meta Aimsir doesn't store any data and hence requires no permission except for i
 Note: if this program is run on a computer without access to any GPS data, the program might not return your current city's weather. In tihs case the program will default to New York. It is then up to you to add in your own city to receive weather data.
 
 # Screenshots
-[screenshot 1](beijing_screenshot.png)
-[screenshot 2](quebec_screenshot.png)
-[screenshot 3](brisbane_screenshot.png)
-[screenshot 4](new_york_screenshot.png)
-[screenshot 5](options_screenshot.png)
+[Beijing](beijing_screenshot.png),
+[Quebec](quebec_screenshot.png),
+[Brisbane](brisbane_screenshot.png),
+[New York](new_york_screenshot.png),
+[Options](options_screenshot.png).
 
 # License
 This program is licensed under [GPLv3](LICENSE) [2019-present].
