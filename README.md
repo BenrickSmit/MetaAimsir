@@ -19,7 +19,10 @@ Note: if this program is run on a computer without access to any GPS data, the p
 [Options](screenshots/options_screenshot.png).
 
 # Setup
-<Meta Aimsir use and executable>
+//Nothing yet...
+
+# Changed
+//Nothing yet...
 
 # License
 This program is licensed under [GPLv3](LICENSE) [2019-present].
