@@ -15,6 +15,7 @@ Note: if this program is run on a computer without access to any GPS data, the p
 [Quebec](screenshots/quebec_screenshot.png),
 [Brisbane](screenshots/brisbane_screenshot.png),
 [New York](screenshots/new_york_screenshot.png),
+[Norway](screenshots/norway_screenshot.png),
 [Options](screenshots/options_screenshot.png).
 
 # License
