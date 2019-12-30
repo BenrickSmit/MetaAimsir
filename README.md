@@ -8,7 +8,7 @@ It is possible to circumvent the GPS process by entering a city's name the locat
 
 Meta Aimsir doesn't store any data and hence requires no permission except for internet connection permissions\
 
-Note: if this program is run on a computer without access to any GPS data, the program might not return your current city's weather. In tihs case the program will default to New York. It is then up to you to add in your own city to receive weather data.
+Note: if this program is run on a computer without access to any GPS data, the program might not return your current city's weather. In this case the program will default to New York. It is then up to you to add in your own city to receive weather data.
 
 # Screenshots
 [Beijing](screenshots/beijing_screenshot.png),
@@ -17,6 +17,9 @@ Note: if this program is run on a computer without access to any GPS data, the p
 [New York](screenshots/new_york_screenshot.png),
 [Norway](screenshots/norway_screenshot.png),
 [Options](screenshots/options_screenshot.png).
+
+# Setup
+<Meta Aimsir use and executable>
 
 # License
 This program is licensed under [GPLv3](LICENSE) [2019-present].
