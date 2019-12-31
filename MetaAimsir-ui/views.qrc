@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/views">
+        <file alias="about_view.qml">source/views/about_view.qml</file>
+        <file alias="splash_view.qml">source/views/splash_view.qml</file>
+        <file alias="master_view.qml">source/views/master_view.qml</file>
+        <file alias="weather_view.qml">source/views/weather_view.qml</file>
+        <file alias="licenses_view.qml">source/views/licenses_view.qml</file>
+        <file alias="privacy_policy_view.qml">source/views/privacy_policy_view.qml</file>
+        <file alias="resources_view.qml">source/views/resources_view.qml</file>
+        <file alias="about_application_view.qml">source/views/about_application_view.qml</file>
+        <file alias="disclaimer_view.qml">source/views/disclaimer_view.qml</file>
+    </qresource>
+</RCC>

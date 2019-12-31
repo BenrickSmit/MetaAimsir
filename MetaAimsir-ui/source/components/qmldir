@@ -1,0 +1,24 @@
+module components
+Background 1.0 Background.qml
+LocationBar 1.0 LocationBar.qml
+LoadingBox 1.0 LoadingBox.qml
+BackgroundPane 1.0 BackgroundPane.qml
+WeatherForecastItem 1.0 WeatherForecastItem.qml
+WeatherForecastItemSmall 1.0 WeatherForecastItemSmall.qml
+WeatherForecastToday 1.0 WeatherForecastToday.qml
+WeatherData 1.0 WeatherData.qml
+WeatherForecastSideBar 1.0 WeatherForecastSideBar.qml
+WeatherForecastFiveDays 1.0 WeatherForecastFiveDays.qml
+UVItem 1.0 UVItem.qml
+UVControl 1.0 UVControl.qml
+UVControlSideBar 1.0 UVControlSideBar.qml
+UVControlDataItem 1.0 UVControlDataItem.qml
+BackgroundParticleEffect 1.0 BackgroundParticleEffect.qml
+AboutViewButton 1.0 AboutViewButton.qml
+AboutViewMenuBar 1.0 AboutViewMenuBar.qml
+
+ResourcesGridItem 1.0 ResourcesGridItem.qml
+ResourcesPane 1.0 ResourcesPane.qml
+IconsModel 1.0 IconsModel.qml
+Icons8Model 1.0 Icons8Model.qml
+BackgroundModel 1.0 BackgroundModel.qml

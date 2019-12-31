@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/styles">
+        <file alias="Credits.qml">source/styles/Credits.qml</file>
+        <file alias="qmldir">source/styles/qmldir</file>
+        <file alias="Styles.qml">source/styles/Styles.qml</file>
+    </qresource>
+</RCC>

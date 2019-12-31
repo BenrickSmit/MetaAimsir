@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/icons8">
+        <file alias="loading_icon">source/assets/icons8/icons8-loading-sign-100.png</file>
+        <file alias="pressure_icon">source/assets/icons8/icons8-atmospheric-pressure-96.png</file>
+        <file alias="direction_icon">source/assets/icons8/icons8-compass-96.png</file>
+        <file alias="temp_low_icon">source/assets/icons8/icons8-temperature-low-96.png</file>
+        <file alias="temp_high_icon">source/assets/icons8/icons8-temperature-high-96.png</file>
+        <file alias="sunset_icon">source/assets/icons8/icons8-sunset-96.png</file>
+        <file alias="wind_icon">source/assets/icons8/icons8-windsock-96.png</file>
+        <file alias="sunrise_icon">source/assets/icons8/icons8-sunrise-96.png</file>
+        <file alias="humidity_icon">source/assets/icons8/icons8-wet-96.png</file>
+        <file alias="rain_icon">source/assets/icons8/icons8-horizontal-line-96.png</file>
+        <file alias="snow_icon">source/assets/icons8/icons8-winter-96.png</file>
+        <file alias="back_icon">source/assets/icons8/icons8-back-100.png</file>
+        <file alias="c++">source/assets/icons8/icons8-c++-144.png</file>
+        <file alias="qt">source/assets/icons8/icons8-qt-150.png</file>
+        <file alias="visibility_icon">source/assets/icons8/icons8-eye-100.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="50n">source/assets/icons/50n.png</file>
+        <file alias="13n">source/assets/icons/13n.png</file>
+        <file alias="11n">source/assets/icons/11n.png</file>
+        <file alias="10n">source/assets/icons/10n.png</file>
+        <file alias="09n">source/assets/icons/09n.png</file>
+        <file alias="04n">source/assets/icons/04n.png</file>
+        <file alias="03n">source/assets/icons/03n.png</file>
+        <file alias="02n">source/assets/icons/02n.png</file>
+        <file alias="01n">source/assets/icons/01n.png</file>
+        <file alias="50d">source/assets/icons/50d.png</file>
+        <file alias="13d">source/assets/icons/13d.png</file>
+        <file alias="11d">source/assets/icons/11d.png</file>
+        <file alias="10d">source/assets/icons/10d.png</file>
+        <file alias="09d">source/assets/icons/09d.png</file>
+        <file alias="04d">source/assets/icons/04d.png</file>
+        <file alias="03d">source/assets/icons/03d.png</file>
+        <file alias="02d">source/assets/icons/02d.png</file>
+        <file alias="01d">source/assets/icons/01d.png</file>
+    </qresource>
+    <qresource prefix="/backgrounds">
+        <file alias="sky_night">source/assets/backgrounds/sky_night.jpg</file>
+        <file alias="sky_windy">source/assets/backgrounds/sky_windy.jpg</file>
+        <file alias="sky_snowy">source/assets/backgrounds/sky_snowy.jpg</file>
+        <file alias="sky_rainy">source/assets/backgrounds/sky_rainy.jpg</file>
+        <file alias="sky_cloudy">source/assets/backgrounds/sky_cloudy.jpg</file>
+        <file alias="sky_sunny">source/assets/backgrounds/sky_sunny.jpg</file>
+    </qresource>
+</RCC>

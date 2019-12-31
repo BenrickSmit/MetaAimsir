@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/components">
+        <file alias="Background.qml">source/components/Background.qml</file>
+        <file alias="LocationBar.qml">source/components/LocationBar.qml</file>
+        <file alias="qmldir">source/components/qmldir</file>
+        <file alias="LoadingBox.qml">source/components/LoadingBox.qml</file>
+        <file alias="BackgroundPane.qml">source/components/BackgroundPane.qml</file>
+        <file alias="WeatherForecastItem.qml">source/components/WeatherForecastItem.qml</file>
+        <file alias="WeatherForecastToday.qml">source/components/WeatherForecastToday.qml</file>
+        <file alias="WeatherData.qml">source/components/WeatherData.qml</file>
+        <file alias="WeatherForecastSideBar.qml">source/components/WeatherForecastSideBar.qml</file>
+        <file alias="WeatherForecastFiveDays.qml">source/components/WeatherForecastFiveDays.qml</file>
+        <file alias="WeatherForecastItemSmall.qml">source/components/WeatherForecastItemSmall.qml</file>
+        <file alias="UVItem.qml">source/components/UVItem.qml</file>
+        <file alias="UVControl.qml">source/components/UVControl.qml</file>
+        <file alias="UVControlSideBar.qml">source/components/UVControlSideBar.qml</file>
+        <file alias="UVControlDataItem.qml">source/components/UVDataItem.qml</file>
+        <file alias="BackgroundParticleEffect.qml">source/components/BackgroundParticleEffect.qml</file>
+        <file alias="AboutViewButton.qml">source/components/AboutViewButton.qml</file>
+        <file alias="AboutViewMenuBar.qml">source/components/AboutViewMenuBar.qml</file>
+        <file alias="ResourcesGridItem.qml">source/components/ResourcesGridItem.qml</file>
+        <file alias="ResourcesPane.qml">source/components/ResourcesPane.qml</file>
+        <file alias="Icons8Model.qml">source/components/Icons8Model.qml</file>
+        <file alias="IconsModel.qml">source/components/IconsModel.qml</file>
+        <file alias="BackgroundModel.qml">source/components/BackgroundModel.qml</file>
+    </qresource>
+</RCC>
