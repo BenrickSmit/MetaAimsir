@@ -19,7 +19,9 @@ Note: if this program is run on a computer without access to any GPS data, the p
 [Options](screenshots/options_screenshot.png).
 
 # Setup
-//Nothing yet...
+The current project contains only the required source code. This is done intentionally as the entire project is made to for a Developer Openweathermap.org API Key. The one currently in use is merely a free version, which will only allow the current forecast to be accurately retrieved.
+
+To change the api key simply navigate to the m_api_key variable in the networkconnection class and edit the string in the constructor.
 
 # Changed
 //Nothing yet...
